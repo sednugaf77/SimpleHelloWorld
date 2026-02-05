@@ -1,0 +1,26 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+*.tmp
+*.log
+*.vs/
+.vscode/
+# Visual Studio Code
+.history/
+# OS
+.DS_Store
+Thumbs.db
+# Others
+*.db
+*.sqlite
+*.pdb
+*.cache
+*.ncrunch*
+_ReSharper*/
+.idea/
+*.sln.ide
